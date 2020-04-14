@@ -1,0 +1,273 @@
+/*************************************TAGS*****************************/
+
+body{
+margin: 0;
+font-family: cursive;
+text-align: center;
+}
+h1{
+  color: #204051;
+}
+h2{
+  font-family: 'Satisfy', cursive;
+  color: #204051;
+  font-size: 2.5rem;
+}
+h3{
+  color: #3b6978;
+  font-size: 1.25rem;
+  font-weight: bold;
+
+}
+
+hr{
+  width:0.05rem;
+  border-style: dotted;
+  border-width:0.3125rem 0 0 0 ;
+  color: grey;
+}
+
+
+/**************************************CLASS*****************************/
+.first-part{
+  padding: 0.0625rem;
+  background-color: #e0ebe8;
+}
+.img-sq{
+  width:100%;
+}
+.Sara-ghali{
+  padding-top:18.75rem;
+margin-bottom:0;
+line-height: 1;
+  color: #204051;
+  font-family: 'Great Vibes',cursive;
+  text-align: center;
+  font-size: 6.25rem;
+}
+.definition{
+  margin-bottom:15.625rem;
+  margin-top: 0;
+  text-align: center;
+  color:  #204051;
+  font-size:1.25rem;
+}
+
+.profile{
+  margin: 100px auto;;
+  width:50%;
+
+}
+
+.skill{
+  width:50%;
+  margin: 200px auto;
+text-align: left;
+}
+
+  .img-skill1{
+    position: relative;
+    bottom:15px;
+    float: left;
+    margin-right: 30px;
+    width: 25%
+  }
+  .img-skill2{
+    position: relative;
+    bottom:15px;
+    float:right;
+    margin-left: 30px;
+    width: 25%
+  }
+
+
+
+.btn{
+  text-decoration: none;
+}
+
+.img-contact{
+height: 40px;
+ border-radius: 8px;
+ padding: 5px;
+ width: 50px;
+ margin-bottom: 30px;
+
+}
+.contact-me{
+  background-color: #e0ebe8;
+  padding-bottom: 10px;
+}
+
+/*.black-sq1{
+  background-color: #204051;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+
+
+}
+.white-sq1{
+  background-color: #84a9ac;
+  width: 75px;
+  height: 75px;
+  position: fixed;
+  top:75px;
+  left:75px
+}
+.black-sq2{
+  background-color: #204051;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+  left:150px;
+}
+.white-sq2{
+  background-color: #84a9ac;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+  left:225px;
+top:75px;
+}
+.black-sq3{
+  background-color: #204051;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+  left:300px;
+
+}
+.white-sq3{
+  background-color: #84a9ac;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+  left:375px;
+top:75px;
+}
+.black-sq4{
+  background-color: #204051;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+  left:450px;
+
+}
+.white-sq4{
+  background-color: #84a9ac;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+  left:525px;
+  top:75px;
+}
+.black-sq5{
+  background-color: #204051;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+  left:600px;
+
+}
+.white-sq5{
+  background-color: #84a9ac;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+  left:675px;
+  top:75px;
+}
+.black-sq6{
+  background-color: #204051;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+  left:750px;
+
+}
+.white-sq6{
+  background-color: #84a9ac;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+  left:825px;
+  top:75px;
+}
+.black-sq7{
+  background-color: #204051;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+  left:900px;
+  top:0;
+
+}
+.white-sq7{
+  background-color: #84a9ac;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+  left:975px;
+  top:75px;
+}
+.black-sq8{
+  background-color: #204051;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+  left:1050px;
+  top:0;
+
+}
+.white-sq8{
+  background-color: #84a9ac;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+  left:1125px;
+  top:75px;
+}
+.black-sq9{
+  background-color: #204051;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+  left:1200px;
+  top:0;
+
+}
+.white-sq9{
+  background-color: #84a9ac;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+  left:1275px;
+  top:75px;
+}
+.black-sq10{
+  background-color: #204051;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+  left:1350px;
+  top:0;
+
+}
+.white-sq10{
+  background-color: #84a9ac;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+  left:1425px;
+  top:75px;
+}
+.black-sq11{
+  background-color: #204051;
+  width: 75px;
+  height: 75px;
+  position:fixed;
+  left:1500px;
+  top:0;
+
+}*/
